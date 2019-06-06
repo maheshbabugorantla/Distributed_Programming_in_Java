@@ -2,5 +2,5 @@
 
 ## **Projects**
 
-- [x] [miniproject-1](./miniproject-1)
+- [x] [miniproject 1](./miniproject_1)
 
