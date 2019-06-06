@@ -1,0 +1,8 @@
+
+# Ignore the .idea files
+*/.idea/ 
+*.iml
+
+# Ignoring Sample Projects
+miniproject-0/
+RMI_Sample/
