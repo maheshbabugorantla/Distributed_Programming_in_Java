@@ -47,7 +47,8 @@ public class SparkTest extends TestCase {
         }
 
         if (ncoresStr == null) {
-            return Runtime.getRuntime().availableProcessors();
+            return 4;
+//            return Runtime.getRuntime().availableProcessors();
         } else {
             return Integer.parseInt(ncoresStr);
         }
